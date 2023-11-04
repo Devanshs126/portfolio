@@ -25,7 +25,7 @@ This repository contains the source code for my personal portfolio website. The 
 1. *Clone the Repository:*
 
    ```bash
-   git clone [https://github.com/your-username/portfolio-website.git](https://github.com/VipulSharma0001/Portfolio/tree/main/codesof%20level1%20portfolio)
+   git clone (https://github.com/Devanshs126/portfolio/tree/main)
    Open the Project:
 
 *2.Navigate to the project folder.*
